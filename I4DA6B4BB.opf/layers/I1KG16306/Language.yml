@@ -1,0 +1,99 @@
+id: 3edc528b2d5b4773bf839068443c8b5f
+annotation_type: Language
+revision: '00001'
+annotations:
+  ddd40bf7f9f144ec9e8ca3a56d9cd9fa:
+    span:
+      start: 39
+      end: 174
+    language: en
+  d8786927d70646528608bf646a27874d:
+    span:
+      start: 333
+      end: 361
+    language: en
+  c47383e2dc9047d096a8d32ee0dd422e:
+    span:
+      start: 397
+      end: 672
+    language: en
+  a9d7d5f3eae7431c8bf1db8f8986d5e3:
+    span:
+      start: 1802
+      end: 1830
+    language: en
+  2b7dfc26a0434c47a1d73f6073b3ae40:
+    span:
+      start: 2019
+      end: 2147
+    language: en
+  d19e378c92b8444fbd225da17cf65de9:
+    span:
+      start: 3971
+      end: 4070
+    language: en
+  5471df4187ee4869832a59dd2bb38260:
+    span:
+      start: 4199
+      end: 4297
+    language: en
+  f55f92a8a2e44607981e6bc235a88a13:
+    span:
+      start: 5919
+      end: 5957
+    language: en
+  f4068e3fb49a49c797268cfa6e0c1429:
+    span:
+      start: 7308
+      end: 7414
+    language: en
+  adc5c00eaa5c4f209e9cec0bcd0ad84e:
+    span:
+      start: 7831
+      end: 7927
+    language: en
+  c37cc8a338f24f0e88020169e1415340:
+    span:
+      start: 9052
+      end: 9255
+    language: en
+  3a588cdc64da4d5bac095a6bf7b30341:
+    span:
+      start: 10083
+      end: 10131
+    language: en
+  f98a3e49b3f64a33b5ce652394bfa77f:
+    span:
+      start: 10239
+      end: 10341
+    language: en
+  b26e9fc21cfb489fba106a348b30807b:
+    span:
+      start: 13215
+      end: 13277
+    language: en
+  fb8f3080c6c54f629c0dfee518883c36:
+    span:
+      start: 13992
+      end: 14069
+    language: en
+  0cd4132ab24f4170b2ae13cddc1d3993:
+    span:
+      start: 14161
+      end: 14253
+    language: en
+  74f0e343fd2c4471a2ba2fd039671c45:
+    span:
+      start: 15127
+      end: 15217
+    language: en
+  6377acd4928b4ae1b5a5e081b1dc6643:
+    span:
+      start: 17538
+      end: 17630
+    language: en
+  40d4757a03014c6fb332d5a1efe1066b:
+    span:
+      start: 19854
+      end: 19959
+    language: en
